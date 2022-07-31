@@ -8,7 +8,7 @@
   <!--
     Defines the overall server settings.
   -->
-  <server address="0.0.0.0" port="4296" ipVersion="IPv4" maxStrikes="3" />
+  <server address="127.0.0.1" port="4296" ipVersion="IPv4" maxStrikes="3" />
 
   <!--
     Specifies where DarkRift should look for plugins.
